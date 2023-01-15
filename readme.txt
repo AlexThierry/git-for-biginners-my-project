@@ -4,4 +4,4 @@ Author:Alex Jane Thierry
 
 Twitter:@alexthierry111
 
-Website : www.alex.com
+Website : http://www.alex.com
