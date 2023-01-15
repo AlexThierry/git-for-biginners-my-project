@@ -1,4 +1,4 @@
-Welcome to my project
+Welcome to the git beginners my project
 
 Author:Alex Jane Thierry
 
