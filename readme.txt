@@ -1,5 +1,5 @@
 Welcome to my project
 
-Author:Alex
+Author:Alex Thierry
 
 Twitter:@alexthierry111
